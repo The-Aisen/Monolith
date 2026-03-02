@@ -17659,3 +17659,10 @@ Entries:
   id: 1946
   time: '2026-03-02T18:25:53.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/3329
+- author: Redrover1760
+  changes:
+    - type: Fix
+      message: You can now Pre-fracture SRD the Unidentified Ship
+  id: 1947
+  time: '2026-03-02T21:18:37.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/3330
