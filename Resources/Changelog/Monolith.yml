@@ -19005,3 +19005,10 @@ Entries:
   id: 2095
   time: '2026-03-28T16:21:43.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/3587
+- author: Redrover1760
+  changes:
+    - type: Tweak
+      message: Thruster capacitor upgrades made more impactful.
+  id: 2096
+  time: '2026-03-28T16:42:39.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/3589
