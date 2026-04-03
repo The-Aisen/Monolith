@@ -19217,3 +19217,10 @@ Entries:
   id: 2119
   time: '2026-04-03T11:08:39.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/3195
+- author: NazrinNya
+  changes:
+    - type: Add
+      message: Added Hullmods, currently admin-only.
+  id: 2120
+  time: '2026-04-03T11:08:54.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/3285
