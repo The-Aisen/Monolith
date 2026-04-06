@@ -19497,3 +19497,10 @@ Entries:
   id: 2149
   time: '2026-04-06T15:53:14.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/3707
+- author: Redrover1760
+  changes:
+    - type: Fix
+      message: Siebel blast doors start open. You can now enter the ship properly.
+  id: 2150
+  time: '2026-04-06T17:15:41.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/3716
