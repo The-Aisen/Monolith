@@ -20302,3 +20302,10 @@ Entries:
   id: 2237
   time: '2026-04-22T21:47:54.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/3857
+- author: kasature90
+  changes:
+    - type: Add
+      message: Retextured small-arms cartridges & shotgun shells.
+  id: 2238
+  time: '2026-04-22T21:56:00.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/3852
