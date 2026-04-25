@@ -20421,3 +20421,12 @@ Entries:
   id: 2251
   time: '2026-04-25T01:05:47.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/3862
+- author: lopsidedmanboobs
+  changes:
+    - type: Tweak
+      message: >-
+        Clarified that in-game relationships between characters is forbidden
+        under Core Rule 0. Read it for more details & the exception within.
+  id: 2252
+  time: '2026-04-25T03:02:50.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/3879
