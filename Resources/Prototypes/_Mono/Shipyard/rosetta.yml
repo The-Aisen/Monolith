@@ -8,8 +8,8 @@
   id: Rosetta
   parent: BaseVessel
   name: NOV-Rosetta
-  description: A science vessel built by the enigmatic "System"; the Rosetta model is a heavy duty, yet luxurious xenoarcheological ship, with enough firepower to pulverize the undesired (and stationary) "customer".
-  price: 155000
+  description: A science vessel built by the enigmatic "System"; the Rosetta model is a heavy duty, yet luxurious xenoarcheological ship, with enough firepower to persuade the undesired (and stationary) "customer" to leave.
+  price: 99000
   category: Medium
   group: Shipyard
   shuttlePath: /Maps/_Mono/Shuttles/Rosetta.yml
